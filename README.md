@@ -3,9 +3,9 @@
 Hello there! :wave: I am Robin! :sunglasses:
 
 - :de: I live in Germany
-- :penguin: I like <img src="https://img.shields.io/badge/-Linux-%23FCC624?style=for-the-badge&logo=Linux&logoColor=000000" alt="Linux">
+- :penguin: I like Linux
 - :man_technologist: And automating stuff
-- :house: Especially at home using [<img src="https://img.shields.io/badge/-Home%20Assistant-%2341BDF5?style=for-the-badge&logo=Home%20Assistant&logoColor=ffffff" alt="Home%20Assistant">](https://www.home-assistant.io/)
+- :house: Especially at home using [Home Assistant](https://www.home-assistant.io/)
 
 My main work here are Ansible roles so be sure to check them out in my repositories or over at the [Galaxy](https://galaxy.ansible.com/thorian93). For an overview see [ROLES.md](ROLES.md).
 
@@ -52,6 +52,7 @@ My main work here are Ansible roles so be sure to check them out in my repositor
   <img src="https://img.shields.io/badge/-GitLab-%23FCA121?style=for-the-badge&logo=GitLab" alt="GitLab">  
   <img src="https://img.shields.io/badge/-Grafana-%23F46800?style=for-the-badge&logo=Grafana&logoColor=ffffff" alt="Grafana">
   <img src="https://img.shields.io/badge/-Graylog-%23FF3633?style=for-the-badge&logo=Graylog&logoColor=ffffff" alt="Graylog">
+  <img src="https://img.shields.io/badge/-Home%20Assistant-%2341BDF5?style=for-the-badge&logo=Home%20Assistant&logoColor=ffffff" alt="Home%20Assistant">
   <img src="https://img.shields.io/badge/-Icinga-%2306062C?style=for-the-badge&logo=Icinga" alt="Icinga">
   <img src="https://img.shields.io/badge/-InfluxDB-H%2322ADF6EX?style=for-the-badge&logo=InfluxDB&logoColor=ffffff" alt="InfluxDB">
   <img src="https://img.shields.io/badge/-Jellyfin-%2300A4DC?style=for-the-badge&logo=Jellyfin&logoColor=ffffff" alt="Jellyfin">  
