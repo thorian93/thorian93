@@ -2,12 +2,14 @@
 
 Hello there! :wave: I am Robin! :sunglasses:
 
-- :de: I live in Germany
+- :de: I live in Cologne
 - :penguin: I like Linux
 - :man_technologist: And automating stuff
 - :house: Especially at home using [Home Assistant](https://www.home-assistant.io/)
 
 My main work here are Ansible roles so be sure to check them out in my repositories or over at the [Galaxy](https://galaxy.ansible.com/thorian93). For an overview see [ROLES.md](ROLES.md).
+
+Find my work profile over at my alter ego [robin-tribe29](https://github.com/robin-tribe29).
 
 <!-- <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=thorian93&theme=github" alt="Thorian93's GitHub Activity Graph" />
