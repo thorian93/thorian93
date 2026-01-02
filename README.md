@@ -42,7 +42,7 @@ Find my work profile over at my alter ego [robin-tribe29](https://github.com/rob
   <img src="https://img.shields.io/badge/-Vagrant-%231868F2?style=for-the-badge&logo=Vagrant" alt="Vagrant">
   <img src="https://img.shields.io/badge/-Vim-%23019733?style=for-the-badge&logo=Vim" alt="Vim">
   <img src="https://img.shields.io/badge/-VirtualBox-%23183A61?style=for-the-badge&logo=VirtualBox" alt="VirtualBox">
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=Visual%20Studio%20Code" alt="Visual%20Studio%20Code">
+  <img src="https://img.shields.io/badge/-VSCodium-%232F80ED?style=for-the-badge&logo=VSCodium&logoColor=ffffff" alt="Visual%20Studio%20Code">
 </p>
 
 <h3 align="center">
@@ -58,7 +58,7 @@ Find my work profile over at my alter ego [robin-tribe29](https://github.com/rob
   <img src="https://img.shields.io/badge/-Graylog-%23FF3633?style=for-the-badge&logo=Graylog&logoColor=ffffff" alt="Graylog">
   <img src="https://img.shields.io/badge/-Home%20Assistant-%2341BDF5?style=for-the-badge&logo=Home%20Assistant&logoColor=ffffff" alt="Home%20Assistant">
   <img src="https://img.shields.io/badge/-Icinga-%2306062C?style=for-the-badge&logo=Icinga" alt="Icinga">
-  <img src="https://img.shields.io/badge/-InfluxDB-H%2322ADF6EX?style=for-the-badge&logo=InfluxDB&logoColor=ffffff" alt="InfluxDB">
+  <img src="https://img.shields.io/badge/-InfluxDB-%2322ADF6?style=for-the-badge&logo=InfluxDB&logoColor=ffffff" alt="InfluxDB">
   <img src="https://img.shields.io/badge/-Jellyfin-%2300A4DC?style=for-the-badge&logo=Jellyfin&logoColor=ffffff" alt="Jellyfin">  
   <img src="https://img.shields.io/badge/-Let%E2%80%99s%20Encrypt-%23003A70?style=for-the-badge&logo=Let%E2%80%99s%20Encrypt" alt="Let's Encrypt">
   <img src="https://img.shields.io/badge/-MariaDB-%23003545?style=for-the-badge&logo=MariaDB" alt="MariaDB">
