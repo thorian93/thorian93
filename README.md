@@ -7,7 +7,7 @@ Hello there! :wave: I am Robin! :sunglasses:
 - :man_technologist: And automating stuff
 - :house: Especially at home using [Home Assistant](https://www.home-assistant.io/)
 
-My main work here are Ansible roles so be sure to check them out in my repositories or over at the [Galaxy](https://galaxy.ansible.com/thorian93). For an overview see [ROLES.md](ROLES.md).
+My main work here are Ansible roles so be sure to check them out in my repositories or over at the [Galaxy](https://galaxy.ansible.com/thorian93).
 
 Find my work profile over at my alter ego [robin-tribe29](https://github.com/robin-tribe29).
 
@@ -31,6 +31,7 @@ Find my work profile over at my alter ego [robin-tribe29](https://github.com/rob
   <img src="https://img.shields.io/badge/-F--Droid-%231976D2?style=for-the-badge&logo=F%2DDroid" alt="F-Droid">
   <img src="https://img.shields.io/badge/-Firefox-%23FF7139?style=for-the-badge&logo=Firefox&logoColor=ffffff" alt="Firefox">
   <img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=Git&logoColor=ffffff" alt="Git">
+  <img src="https://img.shields.io/badge/-GrapheneOS-%230053A3?style=for-the-badge&logo=GrapheneOS" alt="GrapheneOS">  
   <img src="https://img.shields.io/badge/-KeePassXC-%236CAC4D?style=for-the-badge&logo=KeePassXC&logoColor=ffffff" alt="KeePassXC">
   <img src="https://img.shields.io/badge/-LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice" alt="LibreOffice">
   <img src="https://img.shields.io/badge/-LineageOS-%23167C80?style=for-the-badge&logo=LineageOS" alt="LineageOS">  
@@ -48,6 +49,7 @@ Find my work profile over at my alter ego [robin-tribe29](https://github.com/rob
   MY STACK
 </h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/-AdGuard-%2368BC71?style=for-the-badge&logo=AdGuard&logoColor=ffffff" alt="AdGuard">
   <img src="https://img.shields.io/badge/-Ansible-%23EE0000?style=for-the-badge&logo=Ansible" alt="Ansible">
   <img src="https://img.shields.io/badge/-Apache-%23D22128?style=for-the-badge&logo=Apache" alt="Apache">
   <img src="https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=Docker&logoColor=ffffff" alt="Docker">
@@ -64,8 +66,10 @@ Find my work profile over at my alter ego [robin-tribe29](https://github.com/rob
   <img src="https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff" alt="MySQL">
   <img src="https://img.shields.io/badge/-Nextcloud-%230082C9?style=for-the-badge&logo=Nextcloud" alt="Nextcloud">
   <img src="https://img.shields.io/badge/-NGINX-%23009639?style=for-the-badge&logo=NGINX" alt="NGINX">
+  <img src="https://img.shields.io/badge/-Paperless-%2317541F?style=for-the-badge&logo=Paperless-NGX" alt="Paperless-NGX">
   <img src="https://img.shields.io/badge/-Pi--hole-%2396060C?style=for-the-badge&logo=Pi%2Dhole" alt="Pi-hole">
   <img src="https://img.shields.io/badge/-Podman-%23892CA0?style=for-the-badge&logo=Podman" alt="Podman">
+  <img src="https://img.shields.io/badge/-Synology-%23B5B5B6?style=for-the-badge&logo=Synology&logoColor=000000" alt="Synology">
   <img src="https://img.shields.io/badge/-Terraform-%237B42BC?style=for-the-badge&logo=Terraform" alt="Terraform">
   <img src="https://img.shields.io/badge/-VMware-%23607078?style=for-the-badge&logo=VMware&logoColor=ffffff" alt="VMware">
   <img src="https://img.shields.io/badge/-WordPress-%2321759B?style=for-the-badge&logo=WordPress" alt="WordPress">
@@ -81,5 +85,6 @@ Find my work profile over at my alter ego [robin-tribe29](https://github.com/rob
   <img src="https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=Kali%20Linux&logoColor=ffffff" alt="Kali%20Linux">
   <img src="https://img.shields.io/badge/-Linux%20Mint-%2387CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=ffffff" alt="Linux%20Mint">  
   <img src="https://img.shields.io/badge/-Red%20Hat-%23EE0000?style=for-the-badge&logo=Red%20Hat" alt="Red%20Hat">
+  <img src="https://img.shields.io/badge/-Rocky%20Linux-%2310B981?style=for-the-badge&logo=Rocky%20Linux&logoColor=ffffff" alt="Rocky%20Linux">
   <img src="https://img.shields.io/badge/-Ubuntu-%23E95420?style=for-the-badge&logo=Ubuntu&logoColor=ffffff" alt="Ubuntu">
 </p>
