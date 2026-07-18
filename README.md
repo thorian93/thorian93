@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=thorian93&count_private=true&show_icons=true&include_all_commits=true&theme=github" alt="Thorian93's GitHub Stats">
+<img align="right" src="https://github-stats-extended.vercel.app/api?username=thorian93&count_private=true&show_icons=true&include_all_commits=true&theme=github" alt="Thorian93's GitHub Stats">
 
 Hello there! :wave: I am Robin! :sunglasses:
 
